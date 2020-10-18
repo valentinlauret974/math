@@ -18,7 +18,7 @@ Fibonacci numbers test class.
 
 import unittest
 
-from math.fibonacci import fibonacci
+from gl.fibonacci import fibonacci
 
 class TestFibonacci(unittest.TestCase):
   """
